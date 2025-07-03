@@ -3,8 +3,7 @@ from flask_cors import CORS
 import numpy as np
 import cv2
 from ultralytics import YOLO
-from pymongo import MongoClient
-import os
+
 
 app = Flask(__name__)
 CORS(app)

@@ -1,0 +1,15 @@
+For frontend:- Install Library npm install ,npm install axios
+for Backend:- Install Library using Flask (Opencv,Flask,ultralytics,numpy,flask_cors)
+
+Commonds:-
+Run frontend by:-  npm run dev
+Run Backend by:- python app.py
+
+
+Describe:
+1.Input by Camera as well as from image or video from frontend to backend.
+
+
+2.Detect object using YOLOV8 and detect defect (Need model to train)
+
+3.Use rest api to send summary to frontend
